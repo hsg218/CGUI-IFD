@@ -1,0 +1,8 @@
+CHARMM General Force Field (CGenFF) program version 2.5.1
+released August 2021
+Copyright (C) 2020 SilcBio LLC
+and University of Maryland, School of Pharmacy. All Rights Reserved.
+
+readmol2 warning: non-unique atoms were renamed; run with -v for details.
+Now processing molecule IIB ...
+attype warning: chlorine bound to a 5-membered aromatic carbon atom not explicitly supported
